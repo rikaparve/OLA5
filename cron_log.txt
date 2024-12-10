@@ -1,0 +1,348 @@
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "No new data to insert."
+[1] TRUE
+Cron job started at: Mon Dec  9 14:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 15:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 16:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 17:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 18:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 19:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 20:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 21:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 22:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Mon Dec  9 23:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 00:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 01:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 02:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 03:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 04:00:02 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 05:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 06:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 07:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 08:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "New data added."
+[1] TRUE
+Cron job started at: Tue Dec 10 09:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "No new data to insert."
+[1] TRUE
+Cron job started at: Tue Dec 10 10:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "No new data to insert."
+[1] TRUE
+Cron job started at: Tue Dec 10 11:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "No new data to insert."
+[1] TRUE
+Cron job started at: Tue Dec 10 12:00:01 UTC 2024
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "No new data to insert."
+[1] TRUE
